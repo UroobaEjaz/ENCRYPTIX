@@ -1,4 +1,4 @@
-package org.encryptix;
+package EncryptixJava;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -59,5 +59,6 @@ public class NumberGame {
         System.out.println("rounds loss: " + roundsLoss);
 
     }
+
 
 }
